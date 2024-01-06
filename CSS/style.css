@@ -70,3 +70,13 @@ main{
 .section1>a{
     font-size: 20px;
 }
+/*        TAble Tags Niye kaj        */
+table{
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+td ,th{
+    padding: 4px 12px;
+    border: 1px solid black;
+    font-size: 22px;
+}
